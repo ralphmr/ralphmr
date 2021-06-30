@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ralphmr from AWS
+- 👋 Hi, I’m Ralph from AWS
 - 👱🏼‍♂️ All views are my own
-- 👀 I’m interested in all things AWS, especially HPC
-- 🌱 I’m currently learning HPC
-
 
 
 <!---
