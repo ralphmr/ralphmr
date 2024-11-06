@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ralph from AWS
+- 👋 Hi, I’m Ralph
 - 👱🏼‍♂️ All views are my own
 
 
